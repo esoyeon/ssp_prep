@@ -49,7 +49,7 @@ logs/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb
+
 
 # Model files
 *.h5
