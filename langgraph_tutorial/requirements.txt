@@ -1,0 +1,16 @@
+# LangGraph 튜토리얼 필수 패키지
+
+# 핵심 패키지
+langgraph>=0.1.0
+typing-extensions>=4.0.0
+
+# 선택적 패키지 (실제 LLM 연동 시)
+langchain>=0.1.0
+langchain-openai>=0.1.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# 개발 및 테스트 도구 (선택사항)
+jupyter>=1.0.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
