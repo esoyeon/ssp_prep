@@ -1,0 +1,24 @@
+# 기본 패키지
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+scikit-learn>=1.0.0
+
+# 이미지 처리
+opencv-python>=4.5.0
+Pillow>=8.3.0
+scikit-image>=0.18.0
+
+# 과학 계산
+scipy>=1.7.0
+
+# 딥러닝 (선택사항)
+torch>=1.9.0
+torchvision>=0.10.0
+
+# 추가 이미지 처리
+mahotas>=1.4.0
+
+# 성능 향상
+numba>=0.56.0
+joblib>=1.1.0
