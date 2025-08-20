@@ -1,0 +1,21 @@
+# LangChain 핵심 라이브러리
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-openai>=0.0.5
+langchain-text-splitters>=0.0.1
+
+# 웹 스크래핑
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+
+# 벡터 데이터베이스
+faiss-cpu>=1.7.4
+
+# 환경 변수 관리
+python-dotenv>=1.0.0
+
+# 선택적 의존성 (LangSmith 추적용)
+langchain-teddynote>=0.0.1
+
+# 기타 유틸리티
+numpy>=1.24.0
