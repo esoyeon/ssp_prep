@@ -3,3 +3,5 @@
 - RAG SOTA 구조도 : https://github.com/langchain-ai/rag-from-scratch
 - LangChain / LangGraph 한국어 튜토리얼 : https://wikidocs.net/book/14314
 - Bird Bench LeaderBoard : https://bird-bench.github.io/
+- text to sql casestudy 1 : https://techblog.woowahan.com/18144/
+- langsmith prompt hub : https://smith.langchain.com/hub/search?q=text+to+sql
